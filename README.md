@@ -16,7 +16,8 @@
 и применён RGB-светодиод с общим катодом, для звуковой — пьезоизлучатель.
 
 ## Принципиальная схема
-<img width="1559" height="1055" alt="image" src="https://github.com/user-attachments/assets/53bf9c84-a126-4cb7-a13a-41b84ef5fec3" />
+<img width="1299" height="1194" alt="schematic" src="https://github.com/user-attachments/assets/7e8529d8-6714-4f28-a919-ce307a33cc8d" />
+
 
 
 ## Печатная плата в Altium Designer
